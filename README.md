@@ -1,21 +1,19 @@
-## Hi there 👋
-
-# Hi, I'm Lance Lisondra 👋
+## Hi! I'm Lance
 
 Software Engineer with experience in backend modernization, full-stack development, and applied AI/data tooling. Recent Computer Science graduate with a minor in Artificial Intelligence.
 
-📍 Prior Lake, MN
-📧 lancelisondra9@gmail.com
-🔗 [LinkedIn](#) • [GitHub](#)
+Prior Lake, MN
+lancelisondra9@gmail.com
+[LinkedIn](#) • [GitHub](#)
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.S. in Computer Science, Minor in Artificial Intelligence — North Dakota State University (2026)
-- 💼 Currently building software solutions and exploring AI-driven developer tooling
-- 🛠️ Experienced in backend refactoring, security remediation, and full-stack application development
+-  B.S. in Computer Science, Minor in Artificial Intelligence — North Dakota State University (2026)
+-  Currently building software solutions and exploring AI-driven developer tooling
+-  Experienced in backend refactoring, security remediation, and full-stack application development
 
-## 📫 Get in Touch
+##  Get in Touch
 
 Feel free to reach out at **lancelisondra9@gmail.com** or connect with me on [LinkedIn](#).

@@ -13,6 +13,7 @@ lancelisondra9@gmail.com
 -  B.S. in Computer Science, Minor in Artificial Intelligence — North Dakota State University (2026)
 -  Currently building software solutions and exploring AI-driven developer tooling
 -  Experienced in backend refactoring, security remediation, and full-stack application development
+-  Experience as a Software Engineer, as well as a Data Scientist
 
 ##  Get in Touch
 

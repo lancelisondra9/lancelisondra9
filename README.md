@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**lancelisondra9/lancelisondra9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lance Lisondra 👋
 
-Here are some ideas to get you started:
+Software Engineer with experience in backend modernization, full-stack development, and applied AI/data tooling. Recent Computer Science graduate with a minor in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Prior Lake, MN
+📧 lancelisondra9@gmail.com
+🔗 [LinkedIn](#) • [GitHub](#)
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.S. in Computer Science, Minor in Artificial Intelligence — North Dakota State University (2026)
+- 💼 Currently building software solutions and exploring AI-driven developer tooling
+- 🛠️ Experienced in backend refactoring, security remediation, and full-stack application development
+
+## 📫 Get in Touch
+
+Feel free to reach out at **lancelisondra9@gmail.com** or connect with me on [LinkedIn](#).

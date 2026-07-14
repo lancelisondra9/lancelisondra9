@@ -15,7 +15,7 @@ lancelisondra9@gmail.com
 -  Experienced in backend refactoring, security remediation, and full-stack application development
 -  Experience as a Software Engineer, as well as a Data Scientist
 
-## NDA Covered Work (ATCorp's Machete Yang GUI Capstone Project)
+# NDA Covered Work (ATCorp's Machete Yang GUI Capstone Project)
 - Engineered a runtime configuration GUI for ATCorp's ARES router series, streamlining network administration for enterprise deployments.
 - Created a full-stack application with Python and React, delivering a production-ready GUI adopted for commercial use.
 - Designed a dynamic YANG model integration pipeline, enabling users to import and configure arbitrary models directly within the GUI.
